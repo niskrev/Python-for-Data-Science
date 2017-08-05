@@ -1,0 +1,8 @@
+/Users/BadWizard/Documents/Python/Learn/Coursera/Data-Science-with-Python/Week-2-UNIXDataFiles/NewDir
+total 10944
+-rw-r--r--  1 BadWizard  staff        0 Jul 19 14:44 cat
+-rw-r--r--  1 BadWizard  staff       64 Jul 19 14:40 fruits.txt
+-rw-r--r--  1 BadWizard  staff       64 Jul 19 14:42 fruits_sorted.txt
+-rw-r--r--  1 BadWizard  staff       49 Jul 19 14:43 fruits_uniq.txt
+-rw-r--r--  1 BadWizard  staff      102 Jul 19 14:51 out.txt
+-rw-r--r--  1 BadWizard  staff  5583442 Jul 19 14:45 shakespeare.txt
