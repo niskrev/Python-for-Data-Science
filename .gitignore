@@ -102,3 +102,6 @@ ENV/
 
 # csv files
 *.csv
+
+# sqlite files
+*.sqlite
